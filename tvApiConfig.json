@@ -2,7 +2,27 @@
   "urls": [
     {
       "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬(最好用)"
+      "name": "饭太硬(主线1)"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬(主线2)"
+    },
+    {
+      "url": "http://www.饭太硬.xyz/tv",
+      "name": "饭太硬(主线3)"
+    },
+    {
+      "url": "http://fty.888484.xyz/tv",
+      "name": "饭太硬(备用1)"
+    },
+    {
+      "url": "http://fty.333232.xyz/tv",
+      "name": "饭太硬(备用2)"
+    },
+    {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "饭太硬(备用3)"
     },
     {
       "url": "http://mzjk.top/禁止贩卖",
@@ -29,7 +49,7 @@
       "name": "Ray"
     },
     {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "url": "https://www.mpanso.com/小米/DEMO.json",
       "name": "小米"
     },
     {
